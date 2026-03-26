@@ -76,7 +76,7 @@ Detail-oriented **Fullstack Engineer** with deep expertise across **Web Developm
 
 ---
 
-## <img src="https://cdn.simpleicons.org/briefcase/6366f1" width="28" valign="middle"/> Professional Experience
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" valign="middle"/> Professional Experience
 
 | Period | Role | Company |
 |--------|------|---------|
@@ -143,7 +143,7 @@ Detail-oriented **Fullstack Engineer** with deep expertise across **Web Developm
 
 - <img src="https://cdn.simpleicons.org/academia/41454A" width="16" valign="middle"/> &nbsp;**B.Sc. Informatics** — Universitas Islam Indonesia · GPA 3.71/4.00
 - <img src="https://cdn.simpleicons.org/databricks/FF3621" width="16" valign="middle"/> &nbsp;**Coding Camp 2025** — DBS Foundation · Fullstack Web Development
-- <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="16" valign="middle"/> &nbsp;**AWS Backend Academy** — Backend with Generative AI (Jun–Jul 2025)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="16" valign="middle"/> &nbsp;**AWS Backend Academy** — Backend with Generative AI (Jun–Jul 2025)
 - <img src="https://cdn.simpleicons.org/devpost/003E54" width="16" valign="middle"/> &nbsp;**Hackfest 2024** — Zero Waste Web Development Project
 
 ---
