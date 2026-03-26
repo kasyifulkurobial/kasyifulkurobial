@@ -4,7 +4,8 @@
 
 **Odoo Developer · Fullstack Web Developer · Mobile Developer**
 
-*Informatics Student @ Universitas Islam Indonesia · GPA 3.71/4.00*
+*Informatics Graduate · Universitas Islam Indonesia · GPA 3.71/4.00*  
+*Fullstack Engineer specializing in Web, ERP Systems & Mobile — turning complex business logic into clean, scalable solutions.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-kappa-opal-52.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasyiful-kurobi-alqorrosyai)
@@ -17,10 +18,10 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" valign="middle"/> About Me
 
-Detail-oriented **Junior Odoo Developer** and **Fullstack Web Developer** with hands-on experience in ERP customization, full-stack web applications, and mobile development. Currently working as an Odoo Developer at PT Rimba Ananta Vikasa Indonesia while pursuing my Bachelor's degree in Informatics.
+Detail-oriented **Fullstack Engineer** with deep expertise across **Web Development**, **ERP Customization (Odoo)**, and **Mobile Development**. From crafting pixel-perfect frontends to architecting robust backends and customizing enterprise-grade ERP systems — I thrive at every layer of the stack. Currently working as an Odoo Developer at PT Rimba Ananta Vikasa Indonesia, delivering production-ready solutions that streamline complex business workflows.
 
 - <img src="https://cdn.simpleicons.org/odoo/714B67" width="16" valign="middle"/> &nbsp;**Currently:** Odoo Developer @ PT Rimba Ananta Vikasa Indonesia
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16" valign="middle"/> &nbsp;**Education:** Bachelor of Science in Informatics, Universitas Islam Indonesia (2022–2026)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16" valign="middle"/> &nbsp;**Education:** Informatics Graduate, Universitas Islam Indonesia · GPA 3.71/4.00
 - <img src="https://cdn.simpleicons.org/github/181717" width="16" valign="middle"/> &nbsp;**Working on:** Custom Odoo v19 Enterprise modules & full-stack web apps
 - <img src="https://cdn.simpleicons.org/docker/2496ED" width="16" valign="middle"/> &nbsp;**Learning:** Docker, AWS, Cloud Architecture, Generative AI
 - <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="16" valign="middle"/> &nbsp;**Passionate about:** Clean code, scalable systems, and complex business workflows
@@ -132,7 +133,7 @@ Detail-oriented **Junior Odoo Developer** and **Fullstack Web Developer** with h
 
 ![Kasyiful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasyifulkurobial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasyifulkurobial&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasyifulkurobial&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=8)
 
 </div>
 
@@ -140,7 +141,7 @@ Detail-oriented **Junior Odoo Developer** and **Fullstack Web Developer** with h
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28" valign="middle"/> Education & Certifications
 
-- <img src="https://cdn.simpleicons.org/academia/41454A" width="16" valign="middle"/> &nbsp;**B.Sc. Informatics** — Universitas Islam Indonesia (2022–2026) · GPA 3.71/4.00
+- <img src="https://cdn.simpleicons.org/academia/41454A" width="16" valign="middle"/> &nbsp;**B.Sc. Informatics** — Universitas Islam Indonesia · GPA 3.71/4.00
 - <img src="https://cdn.simpleicons.org/databricks/FF3621" width="16" valign="middle"/> &nbsp;**Coding Camp 2025** — DBS Foundation · Fullstack Web Development
 - <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="16" valign="middle"/> &nbsp;**AWS Backend Academy** — Backend with Generative AI (Jun–Jul 2025)
 - <img src="https://cdn.simpleicons.org/devpost/003E54" width="16" valign="middle"/> &nbsp;**Hackfest 2024** — Zero Waste Web Development Project
