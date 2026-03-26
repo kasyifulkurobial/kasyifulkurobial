@@ -24,7 +24,7 @@ Detail-oriented **Fullstack Engineer** with deep expertise across **Web Developm
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16" valign="middle"/> &nbsp;**Education:** Informatics Graduate, Universitas Islam Indonesia · GPA 3.71/4.00
 - <img src="https://cdn.simpleicons.org/github/181717" width="16" valign="middle"/> &nbsp;**Working on:** Custom Odoo v19 Enterprise modules & full-stack web apps
 - <img src="https://cdn.simpleicons.org/docker/2496ED" width="16" valign="middle"/> &nbsp;**Learning:** Docker, AWS, Cloud Architecture, Generative AI
-- <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="16" valign="middle"/> &nbsp;**Passionate about:** Clean code, scalable systems, and complex business workflows
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16" valign="middle"/> &nbsp;**Passionate about:** Clean code, scalable systems, and complex business workflows
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16" valign="middle"/> &nbsp;**Location:** Yogyakarta, Indonesia
 
 ---
